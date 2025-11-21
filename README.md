@@ -23,13 +23,13 @@ HTML5	Semantic structure for the form and input fields.
 CSS3	Styling for clarity, modern aesthetics, and visual error cues.
 JavaScript (ES6)	Core logic for input validation, error handling, and form submission control.
 
-Export to Sheets
+
 
 📁 Project Structure
 .
-├── index.html          # Main HTML structure and form layout.
-├── style.css           # Enhanced CSS styles for visual presentation and error highlighting.
-└── script.js           # JavaScript logic for form validation (validation function, regex, error display).
+ index.html          # Main HTML structure and form layout.
+ style.css           # Enhanced CSS styles for visual presentation and error highlighting.
+ script.js           # JavaScript logic for form validation (validation function, regex, error display).
 ⚙️ How to Run Locally
 Clone the Repository:
 
