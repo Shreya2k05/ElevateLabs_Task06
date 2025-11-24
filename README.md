@@ -35,6 +35,7 @@ JavaScript  (ES6)	Core logic for input validation, error handling, and form subm
 
 
 📁 Project Structure
+
 .
  index.html          # Main HTML structure and form layout.
  
