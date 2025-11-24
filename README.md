@@ -37,7 +37,9 @@ JavaScript  (ES6)	Core logic for input validation, error handling, and form subm
 📁 Project Structure
 .
  index.html          # Main HTML structure and form layout.
+ 
  style.css           # Enhanced CSS styles for visual presentation and error highlighting.
+ 
  script.js           # JavaScript logic for form validation (validation function, regex, error display).
  
 ⚙️ How to Run Locally
